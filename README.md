@@ -1,2 +1,5 @@
 # basic-Calculator
-a basic javascript calculator
+
+A basic javascript calculator
+
+Symbols taken from https://symbolsdb.com/
